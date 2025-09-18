@@ -1,5 +1,6 @@
 ## Olá, eu sou a Sofia👋
 📚 Atualmente cursando Sistemas de Informação na Fundação Hermínio Ometto - Araras, SP
+
 👩‍💻 Pronomes: ela/dela
 
 ## Minhas redes 📱
