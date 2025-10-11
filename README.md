@@ -1,7 +1,5 @@
 ## Olá, eu sou a Sofia👋
-📚 Atualmente cursando Sistemas de Informação na Fundação Hermínio Ometto - Araras, SP
-
-👩‍💻 Pronomes: ela/dela
+📚 Estudante do 4° semestre de Sistemas de Informação na Fundação Hermínio Ometto - Araras, SP
 
 ## Minhas redes 📱
 <div> 
@@ -13,16 +11,12 @@
     <p align="center">
       <img src="https://github-readme-stats.vercel.app/api?username=sofia-camargo&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true" alt="sofia-camargo's Stats"/>
     </p>
-<
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tecnologias
+<ul>
+    <li>C</li>
+    <li>Java (POO)</li>
+    <li>Python</li>
+    <li>Programação para Web: HTML, CSS, JavaScript e PHP</li>
+    <li>PostgreSQL e OracleSQL</li>
+</ul>
