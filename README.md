@@ -1,5 +1,8 @@
 ## Olá, eu sou a Sofia👋
 📚 Estudante do 4° semestre de Sistemas de Informação na Fundação Hermínio Ometto - Araras, SP
+<p align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=sofia-camargo&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true" alt="sofia-camargo's Stats"/>
+</p>
 
 ## Minhas redes 📱
 <div> 
@@ -8,15 +11,12 @@
   <a href="https://github.com/sofia-camargo"<img alt="GitHub Discussions" target="_blank"><img src="![GitHub Discussions](https://img.shields.io/github/discussions/:user/:repo)"></a>
 
 </div>
-    <p align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=sofia-camargo&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true" alt="sofia-camargo's Stats"/>
-    </p>
-
-## Tecnologias
+    
+## Tecnologias👩🏻‍💻
 <ul>
-    <li>C</li>
-    <li>Java (POO)</li>
-    <li>Python</li>
-    <li>Programação para Web: HTML, CSS, JavaScript e PHP</li>
-    <li>PostgreSQL e OracleSQL</li>
+    <li>C;</li>
+    <li>Java em POO;</li>
+    <li>Python;</li>
+    <li>Programação para Web: HTML, CSS, JavaScript e PHP;</li>
+    <li>PostgreSQL e OracleSQL;</li>
 </ul>
