@@ -10,13 +10,10 @@
   <a href="https://github.com/sofia-camargo"<img alt="GitHub Discussions" target="_blank"><img src="![GitHub Discussions](https://img.shields.io/github/discussions/:user/:repo)"></a>
 
 </div>
-
-<div>
-    <h5>Minha atividade no GitHub 😀</h5>
-    ![sofia-camargo's Stats](https://github-readme-stats.vercel.app/api?username=sofia-camargo&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true)
-</div>
-<!--
-**sofia-camargo/sofia-camargo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+    <p align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=sofia-camargo&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true" alt="sofia-camargo's Stats"/>
+    </p>
+<
 
 Here are some ideas to get you started:
 
