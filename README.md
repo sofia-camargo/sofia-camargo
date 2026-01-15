@@ -1,5 +1,5 @@
 ## Olá, eu sou a Sofia👋
-📚 Estudante do 4° semestre de Sistemas de Informação na Fundação Hermínio Ometto - Araras, SP
+📚 Estudante do 5° semestre de Sistemas de Informação na Fundação Hermínio Ometto - Araras, SP
 <p align="center">
       <img src="https://github-readme-stats.vercel.app/api?username=sofia-camargo&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true" alt="sofia-camargo's Stats"/>
 </p>
