@@ -6,11 +6,11 @@
 
 </div>
   
-### About Me :
+### Sobre mim :
 
-Estudante de Sistemas de Informação. 
+Estudante do 6° semestre de Sistemas de Informação. 
 
-### Languages :
+### Línguas :
 
 <div style="display: flex; align-items: flex-start; align: center">
 <table  align="center">
