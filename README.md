@@ -55,8 +55,6 @@ Estudante de Sistemas de Informação.
         <img src="./logos/dotnet.png" alt=".NET" width="44" height="44" />
         <br />.NET
       </td>
-    
-    
       <td align="center" width="88">
         <img src="./logos/postgresql.svg" alt="PostgreSQL" width="44" height="44" />
         <br />PostgreSQL
